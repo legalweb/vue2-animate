@@ -2,49 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75f418ed-4e8b-4489-a188-7b8f18dc01d5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/bouncing/all.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/bouncing/bounce.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/bouncing/bounceDown.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/bouncing/bounceLeft.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/bouncing/bounceRight.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/bouncing/bounceUp.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/fading/all.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/fading/fade.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/fading/fadeDown.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/fading/fadeDownBig.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/fading/fadeLeft.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/fading/fadeLeftBig.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/fading/fadeRight.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/fading/fadeRightBig.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/fading/fadeUp.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/fading/fadeUpBig.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/rotating/all.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/rotating/rotate.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/rotating/rotateDownLeft.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/rotating/rotateDownRight.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/rotating/rotateUpLeft.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/rotating/rotateUpRight.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/sliding/all.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/sliding/slideDown.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/sliding/slideLeft.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/sliding/slideRight.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/sliding/slideUp.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/zooming/all.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/zooming/zoom.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/zooming/zoomDown.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/zooming/zoomLeft.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/zooming/zoomRight.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/animations/zooming/zoomUp.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/make-transitions.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/vue2-animate.less" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/example/images/logo.png" afterPath="$PROJECT_DIR$/images/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/example/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="vue-animate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -86,8 +45,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="52" column="57" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
+            <state relative-caret-position="266">
+              <caret line="98" column="139" selection-start-line="98" selection-start-column="139" selection-end-line="98" selection-end-column="139" />
               <folding>
                 <element signature="e#2521#2528#0" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -106,10 +65,10 @@
                 <element signature="e#5488#5494#0" expanded="true" />
                 <element signature="e#5495#5501#0" expanded="true" />
                 <element signature="e#5501#5505#0" expanded="true" />
-                <element signature="e#5515#5519#0" expanded="true" />
-                <element signature="e#5522#5526#0" expanded="true" />
-                <element signature="e#5527#5531#0" expanded="true" />
-                <element signature="e#5548#5552#0" expanded="true" />
+                <element signature="e#5534#5538#0" expanded="true" />
+                <element signature="e#5541#5545#0" expanded="true" />
+                <element signature="e#5546#5550#0" expanded="true" />
+                <element signature="e#5567#5571#0" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -317,12 +276,12 @@
       <workItem from="1475940545894" duration="482000" />
       <workItem from="1475941033789" duration="100000" />
       <workItem from="1475941151500" duration="1270000" />
-      <workItem from="1477355991926" duration="3554000" />
+      <workItem from="1477355991926" duration="4226000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9087000" />
+    <option name="totallyTimeSpent" value="9759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="32" width="1723" height="970" extended-state="0" />
@@ -764,8 +723,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="52" column="57" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
+        <state relative-caret-position="266">
+          <caret line="98" column="139" selection-start-line="98" selection-start-column="139" selection-end-line="98" selection-end-column="139" />
           <folding>
             <element signature="e#2521#2528#0" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -784,10 +743,10 @@
             <element signature="e#5488#5494#0" expanded="true" />
             <element signature="e#5495#5501#0" expanded="true" />
             <element signature="e#5501#5505#0" expanded="true" />
-            <element signature="e#5515#5519#0" expanded="true" />
-            <element signature="e#5522#5526#0" expanded="true" />
-            <element signature="e#5527#5531#0" expanded="true" />
-            <element signature="e#5548#5552#0" expanded="true" />
+            <element signature="e#5534#5538#0" expanded="true" />
+            <element signature="e#5541#5545#0" expanded="true" />
+            <element signature="e#5546#5550#0" expanded="true" />
+            <element signature="e#5567#5571#0" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
