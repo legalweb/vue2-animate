@@ -113,7 +113,7 @@
 
             <div class="list-box" style="margin-top: 30px">
                 <transition-group v-bind:name="effect" tag="ul" class="list-group">
-                    <li v-for="(item, i) in items" class="list-group-item" v-bind:key="i">{{ item }}</li>
+                    <li v-for="(item, i) in items" class="list-group-item" v-bind:key="item">{{ item }}</li>
                 </transition-group>
             </div>
         </div>
@@ -122,9 +122,11 @@
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.0.3/vue.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.1.10/vue.min.js"></script>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <script>
+    var lorem = 'Lorem ipsum dolor sit amet consectetur adipiscing elit Duis vestibulum tincidunt turpis Etiam eget eleifend elit In et vestibulum ipsum Donec eu convallis urna Pellentesque sit amet accumsan leo Aliquam elementum justo turpis mollis maximus libero faucibus non Vivamus et eros libero';
+    var words = lorem.split(' ');
     var vm = new Vue({
         el: '#demo',
         data: {
@@ -139,7 +141,12 @@
                     return;
                 }
 
-                this.items.push(this.input);
+                this.items.splice(0, 0, this.input);
+                this.input = words.shift();
+
+                if (!words.length) {
+                    words = lorem.split(' ');
+                }
             },
             reset: function ()
             {
