@@ -1,6 +1,6 @@
-@keyframes slideInRight {
+@keyframes blindInDown {
   from {
-    transform: translate3d(-100%, 0, 0);
+    transform: translate3d(0, -100%, 0);
     visibility: visible;
   }
 
@@ -9,13 +9,13 @@
   }
 }
 
-@keyframes slideOutRight {
+@keyframes blindOutDown {
   from {
     transform: translate3d(0, 0, 0);
   }
 
   to {
     visibility: hidden;
-    transform: translate3d(100%, 0, 0);
+    transform: translate3d(0, -100%, 0);
   }
 }
